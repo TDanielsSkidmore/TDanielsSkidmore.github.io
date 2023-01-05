@@ -38,9 +38,7 @@
         "discription": "We are currently working on creating an interactive map of the CIS building. This will be implemented on a website. Professor Prasad is supervising this project. Reach out to Troy Daniels (Tdaniels@skidmore.edu) if you would like to join the project."
       }
     ],
-    "news":
-    [
-      "Happy New Year!!!", "Good luck with the start of the semester!", "First meeting of the semster is on the 30th"
-    ]
+    "news":["Happy New Year!!!", "Good luck with the start of the semester!", "First meeting of the semster is on the 30th"],
+    "riddle":["Mountains without rocks","Trees without leaves","Buildings without bricks","Water but no fish","What am I?"]
   }
 ]
